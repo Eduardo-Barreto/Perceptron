@@ -23,3 +23,7 @@ python main.py
 # Demonstração
 
 ![demo](./assets/demo.png)
+
+Com torch
+
+![demo](./assets/demo_torch.png)
